@@ -298,9 +298,9 @@ div.SiteBackgroundConfiguration
         #SiteContainer #SiteLeftContainer #SiteSubMenuContainer
         {
             position : absolute;
-            width : 198px;
+            width : 200px;
             height : 50px;
-            left : 55px;
+            left : 5px;
             top : 480px;
 	    background-image : url('images/SubMenuBackground.png');
         }
@@ -331,53 +331,53 @@ div.SiteBackgroundConfiguration
                 {
                     position : absolute;
                     width : 35px;
-                    height : 35px;
-                    left : 11px;
+                    height : 50px;
+                    left : 151px;
                     top : 5px;
 
-                    background-image : url('images/1SubMenuDashOff.png');
+                    background-image : url('images/SubMenuDashOff.png');
                 }
                 #SiteContainer #SiteLeftContainer #SiteSubMenuContainer ul li.Dash a:hover
                 {
                     position : absolute;
                     width : 35px;
                     height : 50px;
-                    left : 11px;
+                    left : 151px;
                     top : 5px;
 
-                    background-image : url('images/1SubMenuDash.png');
+                    background-image : url('images/SubMenuDash.png');
                 }
                 #SiteContainer #SiteLeftContainer #SiteSubMenuContainer ul li.Reboot a
                 {
 
                     position : absolute;
-                    width : 35px;
-                    height : 35px;
-                    left : 48px;
+                    width : 39px;
+                    height : 50px;
+                    left : 110px;
                     top : 5px;
                     
 
-                    background-image : url('images/1SubMenuRebootOff.png');
+                    background-image : url('images/SubMenuRebootOff.png');
                 }
                 #SiteContainer #SiteLeftContainer #SiteSubMenuContainer ul li.Reboot a:hover
                 {
 
                     position : absolute;
-                    width : 35px;
+                    width : 39px;
                     height : 50px;
-                    left : 48px;
+                    left : 110px;
                     top : 5px;
                     
 
-                    background-image : url('images/1SubMenuReboot.png');
+                    background-image : url('images/SubMenuReboot.png');
                 }
 
                 #SiteContainer #SiteLeftContainer #SiteSubMenuContainer ul li.Shutdown a
                 {
                     position : absolute;
                     width : 35px;
-                    height : 35px;
-                    left : 5px;
+                    height : 50px;
+                    left : 72px;
                     top : 5px;
                     
  
@@ -387,8 +387,8 @@ div.SiteBackgroundConfiguration
                 {
                     position : absolute;
                     width : 35px;
-                    height : 35px;
-                    left : 25px;
+                    height : 50px;
+                    left : 72px;
                     top : 5px;
                     
  
@@ -399,23 +399,23 @@ div.SiteBackgroundConfiguration
                 {
                     position : absolute;
                     width : 35px;
-                    height : 35px;
-                    left : 122px;
+                    height : 50px;
+                    left : 0px;
                     top : 5px;
                    
                     
-                    background-image : url('images/1SubMenuInfoOff.png');
+                    background-image : url('images/SubMenuInfoOff.png');
                 }
                 #SiteContainer #SiteLeftContainer #SiteSubMenuContainer ul li.Info a:hover
                 {
                     position : absolute;
                     width : 35px;
                     height : 50px;
-                    left : 122px;
+                    left : 0px;
                     top : 5px;
                    
                     
-                    background-image : url('images/1SubMenuInfo.png');
+                    background-image : url('images/SubMenuInfo.png');
                 }
 
                 
@@ -423,23 +423,23 @@ div.SiteBackgroundConfiguration
                 {
                     position : absolute;
                     width : 35px;
-                    height : 35px;
-                    left : 159px;
+                    height : 50px;
+                    left : 35px; 
                     top : 5px;
                    
                     
-                    background-image : url('images/1SubMenuConfigurationOff.png');
+                    background-image : url('images/SubMenuConfigurationOff.png');
                 }
                 #SiteContainer #SiteLeftContainer #SiteSubMenuContainer ul li.Configuration a:hover
                 {
                     position : absolute;
                     width : 35px;
                     height : 50px;
-                    left : 159px;
+                    left : 35px;
                     top : 5px;
                    
                     
-                    background-image : url('images/1SubMenuConfiguration.png');
+                    background-image : url('images/SubMenuConfiguration.png');
                 }
 
 
